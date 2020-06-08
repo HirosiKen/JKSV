@@ -9,7 +9,7 @@ author = "Leo"
 userHelp = "[A] 選定  [Y] 全部備份  [X] 模式切換  [-] 設定  [ZR] 進階"
 
 #Title Select
-titleHelp = "[A] 選定  [L][R] 變更使用者  [Y] 全部備份  [-] 最愛  [X] 黑名單  [ZR] 抹除  [B] 返回"
+titleHelp = "[A] 選定  [L][R] 變更使用者  [Y] 全部備份  [-] 黑名單  [X] 最愛  [ZR] 抹除  [B] 返回"
 
 #Folder Select
 folderHelp = "[-] 檔案模式  [L]/[R]+[A] 自動命名  [A] 備份  [Y] 還原  [X] 刪除資料夾  [ZR] 抹除  [B] 返回"
